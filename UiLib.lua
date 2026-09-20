@@ -425,4 +425,4 @@ return TabContainer​
 end​
 return Window​
 end​
-return Library
+getgenv().InfoGraffLib = Library
